@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "694109994051",
+    "firebase_url": "https://daftar-belanja-harian-aaf11.firebaseio.com",
+    "project_id": "daftar-belanja-harian-aaf11",
+    "storage_bucket": "daftar-belanja-harian-aaf11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694109994051:android:ee377b284d71d53c20a8f6",
+        "android_client_info": {
+          "package_name": "hanif.nat.daftarbelanja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694109994051-gv8nkf3jqa8vsskuk6m1o0f5oi9fn3gs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm87XvquZoGSZDdwx_m0xVwQJ_weEZjjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694109994051-gv8nkf3jqa8vsskuk6m1o0f5oi9fn3gs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
